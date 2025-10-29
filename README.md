@@ -59,7 +59,7 @@ Model terbaik adalah **SGDRegressor** dengan konfigurasi `loss='huber'`, serta b
 
 ## 📊 Final Standings
 
-![Final Standings](asset/standings.png)
+![Final Standings](asset/standings.png)(asset/standings-2.png)
 
 ---
 
