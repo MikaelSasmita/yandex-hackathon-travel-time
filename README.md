@@ -53,7 +53,7 @@ Target: `travel_time`
 ---
 
 ## 📊 Final Standings
-![Final Standings](assets/standings.png)
+![Final Standings](asset/standings.png)
 
 ---
 
