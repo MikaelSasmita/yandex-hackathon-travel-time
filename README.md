@@ -41,14 +41,19 @@ Target: `travel_time`
 
 ---
 
-## 📈 Hasil
-| Model | R² Score |
-|--------|-----------|
-| LinearRegression | 0.6079 |
-| Ridge | 0.6142 |
-| **SGDRegressor (Final)** | **0.6193** |
+## 🏆 Competition Results
 
-Model final menghasilkan skor **R² = 0.6193**, menempatkan saya di **peringkat ke-6 nasional** pada leaderboard kompetisi.
+- **Competition:** Yandex Hackathon in Indonesia (Techready.id x DTS x Yandex)  
+- **Date:** 11–13 July 2025  
+- **Task:** Predict travel time from city traffic dataset  
+- **Metric:** R² Score  
+- **Final Rank:** 🥇 Top 5 (out of 100+ participants)  
+- **Best Score:** 0.642674 (SGDRegressor)
+
+---
+
+## 📊 Final Standings
+![Final Standings](assets/standings.png)
 
 ---
 
