@@ -57,7 +57,7 @@ Model terbaik adalah **SGDRegressor** dengan konfigurasi `loss='huber'`, serta b
 
 ---
 
-## 📊 Final Standings
+## 📊 Papan Peringkat Akhir
 
 Bagian atas klasemen:
 
