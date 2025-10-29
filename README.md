@@ -61,7 +61,7 @@ Model terbaik adalah **SGDRegressor** dengan konfigurasi `loss='huber'`, serta b
 
 Bagian atas klasemen:
 
-![Final Standings - Top](asset/standings.png)
+![Final Standings - Top](asset/standings-1.png)
 
 Bagian bawah klasemen:
 
