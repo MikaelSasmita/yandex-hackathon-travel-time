@@ -67,12 +67,13 @@ Target: `travel_time`
 ---
 
 ## 📂 Struktur Proyek
+```plaintext
 yandex-hackathon-travel-time/
 │
-├── data/ # berisi train dan test sample
-├── notebooks/ # eksplorasi dan eksperimen
-├── src/ # script utama (EDA, modeling, final)
-├── submission/ # hasil prediksi
+├── data/               # berisi train dan test sample
+├── notebooks/          # eksplorasi dan eksperimen
+├── src/                # script utama (EDA, modeling, final)
+├── submission/         # hasil prediksi
 ├── README.md
 ├── .gitignore
 └── requirements.txt
