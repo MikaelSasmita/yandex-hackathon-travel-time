@@ -83,6 +83,7 @@ Bagian bawah klasemen:
 ```plaintext
 yandex-hackathon-travel-time/
 │
+├── asset/              # berisi file gambar informasi tambahan
 ├── data/               # berisi train dan test sample
 ├── notebooks/          # eksplorasi dan eksperimen
 ├── src/                # script utama (EDA, modeling, final)
